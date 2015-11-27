@@ -1,0 +1,21 @@
+{
+  "name": "spotify-osx-current-song",
+  "version": "1.0.0",
+  "description": "Makes info from current song in Spotify OSX app available through local webserver.",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.4.0",
+    "chalk": "^1.1.1",
+    "express": "^4.13.1",
+    "node-osascript": "^1.0.2",
+    "open": "0.0.5",
+    "request": "^2.60.0",
+    "socket.io": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Fernando França",
+  "license": "MIT"
+}
