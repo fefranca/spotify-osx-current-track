@@ -31,7 +31,7 @@ Setup node modules:
 
 Run server - this also opens up youur default browser and Spotify.app if it is closed:
 
-	npm run
+	npm start
 
 
 ## License
